@@ -1,0 +1,39 @@
+.dark-mode{
+    background-color: #333;
+    color: white;
+}
+
+.dark-mode .navbar-b.navbar-reduce {
+     background-color: #333;
+
+    
+}
+
+.dark-mode .box-shadow-full, .dark-mode .service-box, .dark-mode .s-description, .dark-mode .card{
+    background-color: #222;
+    color: white;
+}
+
+.dark-mode .title-s, .dark-mode h5, .dark-mode .s-title, .dark-mode .title-a{
+    color: #0078ff;
+}
+
+.dark-mode .ion-camera:before, .dark-mode .ion-code-working:before, .dark-mode .ion-monitor:before, .dark-mode .ion-android-phone-portrait:before, .dark-mode .ion-paintbrush:before, .dark-mode .ion-stats-bars:before, .dark-mode .ion-social-facebook:before, .dark-mode .ion-social-instagram:before, .dark-mode .ion-social-twitter:before, .dark-mode .ion-social-pinterest:before, .dark-mode .subtitle-a, .dark-mode .w-ctegory, .dark-mode .w-date, .dark-mode .w-title, .dark-mode .card-description{
+    color:white;
+}
+
+.dark-mode .work-content{
+    background-color: #222;
+}
+
+.dark-mode .card-footer{
+    background-color: #111;
+}
+
+.dark-mode .card-title a{
+    color: #0078ff;
+}
+
+.dark-mode .overlay-mf{
+    background-color: #0078ff80;
+}
